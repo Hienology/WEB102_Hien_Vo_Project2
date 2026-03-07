@@ -1,0 +1,46 @@
+.controls {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-top: 24px;
+}
+
+.ctrl-btn {
+  padding: 10px 28px;
+  font-size: 1rem;
+  font-weight: 600;
+  border: 2px solid #4f8ef7;
+  background: #fff;
+  color: #1d4ed8;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s, opacity 0.15s;
+  min-width: 100px;
+}
+
+.ctrl-btn:hover:not(:disabled) {
+  background: #4f8ef7;
+  color: #fff;
+}
+
+.ctrl-btn:disabled {
+  opacity: 0.35;
+  cursor: not-allowed;
+}
+
+.ctrl-counter {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #475569;
+  min-width: 56px;
+  text-align: center;
+}
+
+/* Thumb-friendly on mobile */
+@media (max-width: 600px) {
+  .ctrl-btn {
+    padding: 12px 24px;
+    font-size: 1rem;
+    min-width: 90px;
+  }
+}

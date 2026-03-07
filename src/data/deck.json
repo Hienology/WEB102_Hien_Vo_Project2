@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "frontText": "What is the capital of France?",
+    "backText": "Paris",
+    "frontImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Camponotus_flavomarginatus_ant.jpg/320px-Camponotus_flavomarginatus_ant.jpg",
+    "backImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png",
+    "category": "easy"
+  },
+  {
+    "id": 2,
+    "frontText": "Which river is the longest in the world?",
+    "backText": "The Nile River (approximately 6,650 km)",
+    "frontImage": "",
+    "backImage": "",
+    "category": "easy"
+  },
+  {
+    "id": 3,
+    "frontText": "What is the tallest mountain on Earth?",
+    "backText": "Mount Everest (8,848 m above sea level)",
+    "frontImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpg/320px-Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpg",
+    "backImage": "",
+    "category": "easy"
+  },
+  {
+    "id": 4,
+    "frontText": "In which country is the Colosseum located?",
+    "backText": "Italy (Rome)",
+    "frontImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/320px-Colosseo_2020.jpg",
+    "backImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Italy_flag_300.png/320px-Italy_flag_300.png",
+    "category": "easy"
+  },
+  {
+    "id": 5,
+    "frontText": "What ocean is the largest on Earth?",
+    "backText": "The Pacific Ocean",
+    "frontImage": "",
+    "backImage": "",
+    "category": "easy"
+  },
+  {
+    "id": 6,
+    "frontText": "Which country has the most natural lakes?",
+    "backText": "Canada (over 60% of the world's lakes)",
+    "frontImage": "",
+    "backImage": "",
+    "category": "medium"
+  },
+  {
+    "id": 7,
+    "frontText": "What is the smallest country in the world by area?",
+    "backText": "Vatican City (0.44 km²)",
+    "frontImage": "",
+    "backImage": "",
+    "category": "medium"
+  },
+  {
+    "id": 8,
+    "frontText": "Which African country has the most pyramids?",
+    "backText": "Sudan (Nubian pyramids – over 200)",
+    "frontImage": "",
+    "backImage": "",
+    "category": "medium"
+  },
+  {
+    "id": 9,
+    "frontText": "What is the deepest lake in the world?",
+    "backText": "Lake Baikal, Russia (1,642 m deep)",
+    "frontImage": "",
+    "backImage": "",
+    "category": "medium"
+  },
+  {
+    "id": 10,
+    "frontText": "Which two countries share the longest international border?",
+    "backText": "Canada and the United States (8,891 km)",
+    "frontImage": "",
+    "backImage": "",
+    "category": "medium"
+  },
+  {
+    "id": 11,
+    "frontText": "What is the only sea without land borders?",
+    "backText": "The Sargasso Sea (defined entirely by ocean currents)",
+    "frontImage": "",
+    "backImage": "",
+    "category": "hard"
+  },
+  {
+    "id": 12,
+    "frontText": "Which country is home to the ancient city of Petra?",
+    "backText": "Jordan",
+    "frontImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Treasury_petra_crop.jpg/240px-Treasury_petra_crop.jpg",
+    "backImage": "",
+    "category": "hard"
+  },
+  {
+    "id": 13,
+    "frontText": "What is the name of the world's largest hot desert?",
+    "backText": "The Sahara Desert (~9.2 million km²)",
+    "frontImage": "",
+    "backImage": "",
+    "category": "hard"
+  },
+  {
+    "id": 14,
+    "frontText": "In which present-day country was the ancient city of Carthage located?",
+    "backText": "Tunisia",
+    "frontImage": "",
+    "backImage": "",
+    "category": "hard"
+  },
+  {
+    "id": 15,
+    "frontText": "Which island nation is the farthest from any continental landmass?",
+    "backText": "Tristan da Cunha (in the South Atlantic Ocean)",
+    "frontImage": "",
+    "backImage": "",
+    "category": "hard"
+  }
+]
